@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.10)  10 OCT 2016 19:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2016.10.10)  10 OCT 2016 19:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -514,26 +514,26 @@ Package: modifications 2005/10/21
 ) (./xjobb-en.aux)
 \openout1 = `xjobb-en.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 20.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 16.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -616,72 +616,71 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 25.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 20.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 25.
+<kth_cmyk_info_comm_tech.pdf, id=1, 597.23125pt x 845.1575pt>
+File: kth_cmyk_info_comm_tech.pdf Graphic file (type pdf)
+
+<use kth_cmyk_info_comm_tech.pdf>
+Package pdftex.def Info: kth_cmyk_info_comm_tech.pdf used on input line 20.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+ [1
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./kth_cmyk_info_comm_tech.
+pdf>] [2
+
+]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 24.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 25.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 24.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 25.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 24.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 25.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 24.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 25.
+(Font)              <10.95> on input line 24.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 25.
+(Font)              <8> on input line 24.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 25.
- [1
+(Font)              <6> on input line 24.
+ [3]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 31.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 31.
+ [4
 
+] (./xjobb-en.toc) [5
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 39.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 39.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 39.
- [2
-
-] (./xjobb-en.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 7.
-) [3
-
-] [4
+]
+[6
 
 ] [1
 
 ] [2
 
-] [3] [4]
-Underfull \vbox (badness 3884) has occurred while \output is active []
-
- [5
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-[7] [8] [9
+] [3] [4] [5
 
 ]
 \tf@toc=\write4
@@ -690,22 +689,22 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  (./xjobb-en.aux) ) 
 Here is how much of TeX's memory you used:
  6146 strings out of 495028
- 84675 string characters out of 6181496
- 167343 words of memory out of 5000000
+ 84761 string characters out of 6181496
+ 166194 words of memory out of 5000000
  9278 multiletter control sequences out of 15000+600000
- 76665 words of font info for 55 fonts, out of 8000000 for 9000
+ 75178 words of font info for 53 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  48i,11n,25p,556b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/t
 exmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/l
-mbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.pfb></usr/share/texmf/f
-onts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/t
-ype1/public/lm/lmssdc10.pfb>
-Output written on xjobb-en.pdf (13 pages, 177338 bytes).
+mbx9.pfb></usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmss10.pfb></usr/share/texmf/fonts/type1/public/lm/lmss12.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
+/type1/public/lm/lmssdc10.pfb>
+Output written on xjobb-en.pdf (11 pages, 192932 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 53 compressed objects within 1 object stream
+ 72 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
